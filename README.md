@@ -15,4 +15,4 @@ Tech Used:
 HTML, CSS, JS, Weather API
 
 Demo: weatherapp.com/demo
-Contribute: github.com/your-username/weatherapp
+Contribute: github.com/Darshndesale/Whether_Application.github.io
